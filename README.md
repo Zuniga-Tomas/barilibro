@@ -8,4 +8,5 @@
 2 - Luego "composer install". <br>
 3 - Crear la db. <br>
 4 - Configurar .env. <br>
-5 - Ejecutar "php artisan migrate --seed
+5 - Ejecutar "php artisan key:generate". <br>
+6 - Por ultimo "php artisan migrate --seed"
