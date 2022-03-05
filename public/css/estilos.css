@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row > li,a{
+    list-style: none;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.685);
+}
+
+.img-fluid {
+    height: 250px;
+    width: 180px;
+}
+
+.col-md-3 > img {
+    max-width: 80%;
+    min-width: 350px;
+}
